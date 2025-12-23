@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+
+    <test name="Chrome Test">
+        <classes>
+            <!--class name="tests.DemoBlazeLoginTest"/-->
+            <class name ="tests.DemotestwithExcel"/>
+        </classes>
+    </test>
+    
+     
+</suite>
