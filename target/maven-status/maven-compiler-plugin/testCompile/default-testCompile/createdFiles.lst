@@ -1,0 +1,8 @@
+tests\DemotestwithExcel.class
+pages\BasePage.class
+pages\LoginPage.class
+tests\BaseTest.class
+utils\ConfigReader.class
+utils\ExcelUtil.class
+tests\DemoBlazeLoginTest.class
+utils\WaitUtils.class

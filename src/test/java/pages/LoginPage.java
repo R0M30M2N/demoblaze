@@ -11,6 +11,8 @@ public class LoginPage extends BasePage {
     private WaitUtils wait;
     
     private By nav_login = By.id("login2");
+    ;
+
     private By usernameField = By.id("loginusername");
     private By passwordField = By.id("loginpassword");
     private By loginButton = By.xpath("//*[@id=\"logInModal\"]/div/div/div[3]/button[2]");
